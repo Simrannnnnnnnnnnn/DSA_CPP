@@ -1,6 +1,6 @@
 /******************************************************************************
                 Array Basics
-                DYNAMIC ARRAY - Insertion at middle
+                DYNAMIC ARRAY - Insertion at given position
                 Time Complexity o(n) 
 *******************************************************************************/
 #include <iostream>
