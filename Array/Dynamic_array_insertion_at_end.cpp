@@ -1,7 +1,7 @@
 /******************************************************************************
                 Array Basics
-                DYNAMIC ARRAY - Insertion at beginning 
-                Time Complexity o(n) 
+                DYNAMIC ARRAY - Insertion at end
+                Time Complexity o(1) 
 *******************************************************************************/
 #include <iostream>
 using namespace std;
